@@ -1,3 +1,5 @@
+This project was build by Tauhidur Anjan and Samit Hasan. 
+Contact emails: tauhidur@bufdalo.edu, samithasan01@gmail.com 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
